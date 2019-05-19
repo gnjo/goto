@@ -74,3 +74,9 @@ got https://gnjo.github.io/ep1.got
 
 `)
 ```
+
+command
+```js
+gott(script,promptElement,errorElement)
+```
+
