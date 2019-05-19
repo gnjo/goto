@@ -21,8 +21,8 @@ set mean the definition.
 put mean the apply the set command
 got mean the goto label
 del mean set definition clear
-//comment
-/*comment*/
+//log comment
+/*slice comment*/
 ```
 
 ```txt
