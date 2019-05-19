@@ -19,6 +19,7 @@ goto [string or url]：スクリプト遷移
 ```
 set mean the definition.
 put mean the apply the set command
+mes mean the message command
 got mean the goto label
 //log comment
 /*slice comment*/
