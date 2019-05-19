@@ -39,6 +39,7 @@ got https://gnjo.github.io/ep1.got
 
 ```
 //inner process
+gott.g['xyz']=void 0
 gott.g['xyz'] =imageload('xyzeeeaaa').effect('grayscale').bind(this);
 gott.g['zzz'] =imageload('pppp').bind(this);
 
