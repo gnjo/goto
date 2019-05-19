@@ -1,5 +1,5 @@
-# goto
-goto script use fetch
+# gott
+gott script use fetch
 
 ```
 必要なコマンド
@@ -32,3 +32,19 @@ put zzz
 got https://gnjo.github.io/ep1.got
 ```
 
+# first command
+```js
+gott(`
+set:
+xyz imageload('xyzeeeaaa').effect('grayscale');
+
+---
+set zzz imageload('pppp')
+
+set https://gnjo.github.io/use.js
+put xyz
+put zzz
+got https://gnjo.github.io/ep1.got
+
+`)
+```
