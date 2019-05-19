@@ -78,6 +78,8 @@ got https://gnjo.github.io/ep1.got
 
 command
 ```js
-gott(script,promptElement,errorElement)
+gott(script,show_prompt,show_error)
+
+gott(``,true,false)
 ```
 
