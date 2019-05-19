@@ -60,8 +60,8 @@ set https://gnjo.github.io/use.js
 put xyz
 put zzz
 :loop1
-|this is a command
-|1 or 2
+this is a command
+1 or 2
 ?flg
 1:got loop2
 2:got loop1
