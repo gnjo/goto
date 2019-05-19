@@ -78,8 +78,7 @@ got https://gnjo.github.io/ep1.got
 
 command
 ```js
-gott(script,show_prompt,show_error)
-
-gott(``,true,false)
+gott(query,script,debugflg)
+//gott('.disp',``,true)
 ```
 
