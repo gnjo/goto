@@ -10,13 +10,19 @@ g[[string]]：変数
 ef[[string]]：エフェクトコマンド
 goto [string or url]：スクリプト遷移
 ```
+
+```
+分岐構文。
+(x)?goto xyz:goto ppp
+```
 # example
 ```
 set mean the definition.
 put mean the apply the set command
 got mean the goto label
 del mean set definition clear
-log mean debug command like a console.log
+//comment
+/*comment*/
 ```
 
 ```txt
