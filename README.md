@@ -1,6 +1,6 @@
 # gott
 gott script use fetch
-
+コマンドプロンプトの為のスクリプト言語。
 ```
 必要なコマンド
 ep [string]：開始ヘッダ
