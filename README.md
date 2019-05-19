@@ -20,15 +20,14 @@ log mean debug command like a console.log
 ```
 
 ```txt
-set:<= any lines shortcut
+set:
+imageload https://gnjo.github.io/use.js
 xyz imageload('xyzeeeaaa').effect('grayscale');
+zzz imageload('pppp')
+---
 
----<= reset block
-set zzz imageload('pppp')
-
-set https://gnjo.github.io/use.js
-put xyz
-put zzz
+xyz
+zzz
 got https://gnjo.github.io/ep1.got
 ```
 
