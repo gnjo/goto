@@ -21,6 +21,7 @@ set mean the definition.
 put mean the apply the set command
 mes mean the message command
 got mean the goto label
+wai mean the wait, if press any key to go 
 //log comment
 /*slice comment*/
 ```
