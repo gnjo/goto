@@ -31,6 +31,17 @@ zzz
 got https://gnjo.github.io/ep1.got
 ```
 
+```
+//inner process
+gott.g['xyz'] =imageload('xyzeeeaaa').effect('grayscale').bind(this);
+gott.g['zzz'] =imageload('pppp').bind(this);
+
+gott.g['xyz'].call(this)
+gott.g['zzz'].call(this)
+gott.got.call(this,url)
+delete gott.g['xyz']
+```
+
 # first command
 ```js
 gott(`
