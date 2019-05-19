@@ -20,7 +20,6 @@ goto [string or url]：スクリプト遷移
 set mean the definition.
 put mean the apply the set command
 got mean the goto label
-del mean set definition clear
 //log comment
 /*slice comment*/
 ```
@@ -46,7 +45,6 @@ gott.g['zzz'] =imageload('pppp').bind(this);
 gott.g['xyz'].call(this)
 gott.g['zzz'].call(this)
 gott.got.call(this,url)
-delete gott.g['xyz']
 ```
 
 # first command
